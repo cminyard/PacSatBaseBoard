@@ -1812,7 +1812,7 @@
 			)
 		)
 		(instances
-			(project "PacSatTestBoard"
+			(project "PacSatBaseBoard"
 				(path "/cc9f42d2-6985-41ac-acab-5ab7b01c5b38"
 					(page "4")
 				)
@@ -1854,7 +1854,7 @@
 			)
 		)
 		(instances
-			(project "PacSatTestBoard"
+			(project "PacSatBaseBoard"
 				(path "/cc9f42d2-6985-41ac-acab-5ab7b01c5b38"
 					(page "14")
 				)
@@ -1904,7 +1904,7 @@
 			)
 		)
 		(instances
-			(project "PacSatTestBoard"
+			(project "PacSatBaseBoard"
 				(path "/cc9f42d2-6985-41ac-acab-5ab7b01c5b38"
 					(page "20")
 				)
@@ -1954,7 +1954,7 @@
 			)
 		)
 		(instances
-			(project "PacSatTestBoard"
+			(project "PacSatBaseBoard"
 				(path "/cc9f42d2-6985-41ac-acab-5ab7b01c5b38"
 					(page "2")
 				)

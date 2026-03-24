@@ -6,7 +6,6 @@
     "hidden_netclasses": [],
     "hidden_nets": [
       "GND",
-      "5V_S1_p",
       "+5V"
     ],
     "high_contrast_mode": 0,
@@ -25,7 +24,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
